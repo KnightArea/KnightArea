@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="Flex" version="4">
-  <component name="FlexBuildConfigurationManager" active="ResizingStage">
+  <component name="FlexBuildConfigurationManager" active="KnightAreaMain">
     <configurations>
-      <configuration name="ResizingStage" target-platform="Desktop" pure-as="true" main-class="ResizingStage" output-file="ResizingStage.swf" output-folder="$MODULE_DIR$/bin-debug">
+      <configuration name="KnightAreaMain" target-platform="Desktop" pure-as="true" main-class="KnightAreaMain" output-file="KnightArea.swf" output-folder="$MODULE_DIR$/bin-debug">
         <dependencies>
           <sdk name="4.6.0-Air23" />
         </dependencies>
